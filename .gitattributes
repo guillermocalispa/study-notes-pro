@@ -1,0 +1,2 @@
+#Silenciar alertas Firebase API keys (son intencionalmente publicas)
+*.html linguist-generated
